@@ -26,6 +26,8 @@ npm run build
 # Gets put in /public
 ```
 
+![Image 1](https://raw.githubusercontent.com/Foluwa/vue-apex-tracker/master/public/img/1.PNG)
+
 ### Version
 
 1.0.0
