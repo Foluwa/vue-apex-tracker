@@ -27,6 +27,8 @@ npm run build
 ```
 
 ![Image 1](https://raw.githubusercontent.com/Foluwa/vue-apex-tracker/master/public/img/1.PNG)
+![Image 2](https://raw.githubusercontent.com/Foluwa/vue-apex-tracker/master/public/img/2.PNG)
+![Image 3](https://raw.githubusercontent.com/Foluwa/vue-apex-tracker/master/public/img/3.PNG)
 
 ### Version
 
